@@ -1,0 +1,141 @@
+Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Discounts,Month Number,Actual Sales,Predicted Sales
+Government,Germany,Carretera,Medium,663.0,3,20,1193.4,5,12066.6,-29854.77
+Small Business,France,Amarilla,High,853.0,260,300,25590.0,12,230310.0,294514.91
+Midmarket,Mexico,Velo,Medium,2861.0,120,15,2145.75,1,40769.25,122975.62
+Government,Germany,Amarilla,Medium,1520.0,260,20,2432.0,11,27968.0,54985.55
+Channel Partners,United States of America,Amarilla,No Discount,1953.0,260,12,0.0,4,23436.0,70556.92
+Government,United States of America,Paseo,Low,4492.5,10,7,314.475,4,31133.025,276572.36
+Government,United States of America,Paseo,Medium,2327.0,10,7,814.45,5,15474.55,52462.1
+Government,United States of America,Montana,High,2996.0,5,7,2936.08,10,18035.92,65679.29
+Midmarket,France,Carretera,No Discount,2178.0,3,15,0.0,6,32670.0,96730.9
+Enterprise,Canada,VTT,Low,2729.0,250,125,6822.5,12,334302.5,305687.31
+Channel Partners,Canada,Paseo,High,4026.0,10,12,5314.32,7,42997.68,158161.49
+Channel Partners,France,Carretera,Low,2671.0,3,12,320.52,9,31731.48,149988.0
+Government,France,VTT,High,293.0,250,20,879.0,12,4981.0,-108366.89
+Government,Mexico,Paseo,High,1197.0,10,350,50274.0,11,368676.0,462266.42
+Midmarket,Germany,Paseo,Low,747.0,10,15,112.05,9,11092.95,17486.84
+Enterprise,Germany,Carretera,High,2767.0,3,125,51881.25,8,293993.75,372691.35
+Small Business,Canada,VTT,Medium,2134.0,250,300,51216.0,9,588984.0,536603.07
+Channel Partners,Canada,Carretera,High,1937.0,3,12,2556.84,2,20687.16,-16721.28
+Midmarket,France,Paseo,Low,2261.0,10,15,1356.6,12,32558.4,124850.11
+Midmarket,France,Amarilla,High,2072.0,260,15,3108.0,12,27972.0,19467.01
+Small Business,Canada,Amarilla,Low,1916.0,260,300,11496.0,12,563304.0,428941.35
+Enterprise,France,VTT,Low,787.0,250,125,983.75,6,97391.25,132019.55
+Small Business,Canada,Velo,High,269.0,120,300,11298.0,10,69402.0,196916.81
+Government,Germany,VTT,High,280.0,250,7,274.4,12,1685.6,-107165.42
+Government,France,Velo,High,1190.0,120,7,1082.9,6,7247.1,-53955.45
+Midmarket,Mexico,Montana,Low,2214.0,5,15,332.1,3,32877.9,107284.84
+Enterprise,United States of America,Carretera,High,3445.5,3,125,43068.75,4,387618.75,359155.48
+Government,France,VTT,Medium,574.5,250,350,16086.0,4,184989.0,348177.69
+Government,Canada,VTT,Medium,1582.0,250,7,775.18,12,10298.82,24037.11
+Government,Canada,Paseo,Low,4251.0,10,7,1190.28,1,28566.72,267217.44
+Government,United States of America,Carretera,Medium,1117.5,3,20,1341.0,1,21009.0,-27739.24
+Channel Partners,Mexico,Montana,High,604.0,5,12,942.24,6,6305.76,-123890.14
+Government,France,Paseo,Medium,1757.0,10,20,2108.4,10,33031.6,43056.12
+Government,United States of America,Montana,Low,1566.0,5,20,626.4,10,30693.6,66803.39
+Government,Germany,Paseo,High,1531.0,10,20,3674.4,12,26945.6,812.12
+Small Business,France,VTT,Medium,959.0,250,300,20139.0,2,267561.0,328618.44
+Small Business,United States of America,VTT,High,2541.0,250,300,106722.0,8,655578.0,714079.92
+Midmarket,Germany,Velo,High,510.0,120,15,765.0,4,6885.0,-93336.79
+Enterprise,Mexico,Amarilla,High,947.0,260,125,13021.25,9,105353.75,77545.99
+Government,United States of America,VTT,Medium,2663.0,250,20,2663.0,12,50597.0,119719.3
+Government,Mexico,Paseo,High,1715.0,10,20,4116.0,10,30184.0,-4059.13
+Government,Canada,Paseo,High,2104.5,10,350,81023.25,7,655551.75,640604.5
+Government,Germany,Paseo,Medium,1095.0,10,7,613.2,5,7051.8,-13732.53
+Channel Partners,United States of America,Velo,High,914.0,120,12,1645.2,12,9322.8,-85162.96
+Small Business,Canada,Paseo,Medium,1702.0,10,300,35742.0,5,474858.0,427229.45
+Enterprise,United States of America,Paseo,Low,727.0,10,125,908.75,6,89966.25,98965.87
+Enterprise,United States of America,Paseo,Medium,2797.0,10,125,31466.25,12,318158.75,319972.61
+Channel Partners,France,Velo,Low,1055.0,120,12,253.2,12,12406.8,41378.42
+Government,Mexico,Paseo,High,886.0,10,350,37212.0,6,272888.0,385642.01
+Government,Canada,Montana,Medium,708.0,5,20,1132.8,6,13027.2,-50868.52
+Small Business,Germany,Carretera,Low,214.0,3,300,1284.0,10,62916.0,270253.65
+Government,Canada,Montana,High,2227.5,5,350,109147.5,1,670477.5,747970.07
+Midmarket,Canada,VTT,High,1565.0,250,15,3051.75,10,20423.25,-21511.35
+Government,France,Paseo,Low,2155.0,10,350,7542.5,12,746707.5,489222.04
+Government,Canada,Amarilla,Medium,1269.0,260,350,39973.5,10,404176.5,486811.18
+Channel Partners,Canada,Paseo,Medium,2431.0,10,12,1458.6,12,27713.4,73556.18
+Channel Partners,Canada,VTT,High,2109.0,250,12,3036.96,5,22271.04,14003.72
+Government,Mexico,Montana,High,1715.0,5,20,4116.0,10,30184.0,-5197.8
+Government,Germany,Paseo,Medium,1598.0,10,7,894.88,8,10291.12,28977.21
+Channel Partners,United States of America,Paseo,High,386.0,10,12,463.2,10,4168.8,-149527.37
+Government,Canada,Amarilla,Low,1778.0,260,350,24892.0,12,597408.0,530504.45
+Small Business,United States of America,VTT,Low,2844.0,250,300,25596.0,2,827604.0,540853.12
+Enterprise,United States of America,Velo,High,1596.0,120,125,19950.0,9,179550.0,148858.22
+Government,France,Paseo,High,1594.0,10,350,66948.0,11,490952.0,556308.87
+Channel Partners,Germany,Paseo,Medium,1775.0,10,12,1917.0,11,19383.0,45129.58
+Small Business,Canada,Carretera,High,1496.0,3,300,62832.0,10,385968.0,467839.35
+Government,Canada,Montana,Low,1830.0,5,7,128.1,8,12681.9,79368.27
+Government,France,VTT,Medium,381.0,250,350,10668.0,8,122682.0,316405.2
+Government,France,Montana,Medium,1757.0,5,20,2108.4,10,33031.6,41917.44
+Small Business,Canada,Paseo,High,873.0,10,300,28809.0,1,233091.0,283985.1
+Small Business,Mexico,VTT,Low,494.0,250,300,1482.0,10,146718.0,286684.7
+Government,Canada,Paseo,No Discount,1725.0,10,350,0.0,11,603750.0,409037.4
+Government,Mexico,Paseo,Medium,2689.0,10,7,941.15,10,17881.85,96614.14
+Government,Canada,VTT,High,623.0,250,350,26166.0,9,191884.0,339446.22
+Channel Partners,France,Velo,Medium,1967.0,120,12,2124.36,3,21479.64,53772.88
+Midmarket,Canada,Paseo,High,1614.0,10,15,3631.5,4,20578.5,-35768.55
+Midmarket,Mexico,Montana,High,2157.0,5,15,3559.05,12,28795.95,14386.65
+Channel Partners,United States of America,Paseo,Low,1142.0,10,12,274.08,6,13429.92,13188.09
+Government,Canada,Velo,Low,2646.0,120,20,2116.8,9,50803.2,182666.91
+Enterprise,France,Velo,No Discount,1804.0,120,125,0.0,2,225500.0,192414.64
+Government,Germany,Amarilla,No Discount,1686.0,260,7,0.0,7,11802.0,86661.65
+Government,France,Paseo,Medium,1031.0,10,7,505.19,9,6711.81,-33458.8
+Channel Partners,Germany,Paseo,High,1013.0,10,12,1580.28,12,10575.72,-64382.95
+Government,France,Paseo,High,2532.0,10,7,1949.64,4,15774.36,34916.45
+Government,Germany,VTT,Medium,2297.0,250,20,2297.0,11,43643.0,119546.12
+Small Business,Mexico,Paseo,High,2150.0,10,300,77400.0,11,567600.0,573885.9
+Government,Canada,Velo,Medium,1269.0,120,350,39973.5,10,404176.5,493312.35
+Midmarket,United States of America,Montana,No Discount,615.0,5,15,0.0,12,9225.0,-36224.09
+Government,Germany,Amarilla,Low,1907.0,260,350,26698.0,9,640752.0,566547.59
+Government,Canada,Amarilla,High,707.0,260,350,24745.0,9,222705.0,336207.01
+Small Business,United States of America,Paseo,Low,2905.0,10,300,8715.0,11,862785.0,475461.44
+Small Business,United States of America,Carretera,Medium,991.0,3,300,14865.0,6,282435.0,289016.96
+Government,France,Velo,Medium,1496.0,120,350,31416.0,6,492184.0,480218.01
+Midmarket,Mexico,Paseo,Low,2031.0,10,15,1218.6,10,29246.4,103245.87
+Government,Germany,Carretera,High,792.0,3,350,30492.0,3,246708.0,372361.62
+Enterprise,France,Amarilla,High,1433.0,260,125,19703.75,5,159421.25,138294.91
+Small Business,Germany,Paseo,Medium,1123.0,10,300,23583.0,9,313317.0,362334.5
+Government,Canada,Amarilla,Medium,1135.0,260,7,556.15,6,7388.85,-21098.92
+Government,Canada,VTT,Low,1326.0,250,7,92.82,3,9189.18,52213.83
+Government,Germany,Velo,High,241.0,120,20,482.0,10,4338.0,-95916.37
+Enterprise,Mexico,VTT,Medium,877.0,250,125,9866.25,11,99758.75,116368.87
+Government,Germany,Paseo,High,241.0,10,20,482.0,10,4338.0,-113126.59
+Midmarket,France,Paseo,Medium,2620.0,10,15,1965.0,9,37335.0,94476.2
+Channel Partners,United States of America,Amarilla,No Discount,2141.0,260,12,0.0,8,25692.0,88517.4
+Government,France,Velo,High,639.0,120,350,22365.0,7,201285.0,331112.97
+Enterprise,United States of America,Velo,Medium,2755.0,120,125,20662.5,2,323712.5,285710.46
+Government,United States of America,Carretera,Medium,1761.0,3,350,43144.5,3,573205.5,513806.53
+Government,Canada,Paseo,Low,2074.0,10,20,1659.2,9,39820.8,119209.0
+Government,Mexico,Paseo,High,260.0,10,20,728.0,2,4472.0,-136547.16
+Government,Canada,Amarilla,Medium,1228.0,260,350,21490.0,10,408310.0,415335.67
+Government,United States of America,Velo,Medium,2907.0,120,7,1627.92,6,18721.08,118686.79
+Channel Partners,France,VTT,Medium,1738.5,250,12,1460.34,4,19401.66,32381.24
+Government,France,Amarilla,No Discount,2750.0,260,350,0.0,2,962500.0,496282.49
+Government,Germany,Carretera,No Discount,1321.0,3,20,0.0,1,26420.0,57932.4
+Channel Partners,Mexico,Amarilla,High,410.0,260,12,639.6,10,4280.4,-124956.69
+Government,Canada,Paseo,High,723.0,10,7,759.15,4,4301.85,-114549.47
+Midmarket,United States of America,Velo,Medium,555.0,120,15,416.25,1,7908.75,-74384.99
+Enterprise,Germany,VTT,High,552.0,250,125,10350.0,11,58650.0,62277.27
+Midmarket,France,VTT,No Discount,2178.0,250,15,0.0,6,32670.0,109797.08
+Government,Canada,Amarilla,Medium,1118.0,260,20,1565.2,11,20794.8,-1340.8
+Enterprise,Canada,Velo,High,1916.0,120,125,23950.0,12,215550.0,199757.69
+Channel Partners,Mexico,Velo,Low,1084.0,120,12,260.16,12,12747.84,42142.98
+Government,France,Velo,Low,639.0,120,7,44.73,11,4428.27,11272.29
+Midmarket,Canada,Paseo,High,2559.0,10,15,5757.75,8,32627.25,49014.94
+Enterprise,France,Carretera,Low,4243.5,3,125,15913.125,4,514524.375,441699.4
+Government,United States of America,Montana,High,982.5,5,350,44703.75,1,299171.25,404211.26
+Enterprise,France,Paseo,Low,2988.0,10,125,14940.0,7,358560.0,340615.33
+Midmarket,Germany,Velo,High,681.0,120,15,1021.5,1,9193.5,-81555.64
+Midmarket,Mexico,Paseo,Low,1514.0,10,15,908.4,10,21801.6,61827.05
+Government,Germany,Montana,Medium,1460.0,5,350,30660.0,5,480340.0,473100.68
+Government,France,Velo,Low,3864.0,120,20,772.8,4,76507.2,272587.9
+Midmarket,Canada,Paseo,High,2470.0,10,15,5187.0,9,31863.0,40802.57
+Government,Germany,VTT,Medium,422.0,250,350,11816.0,8,135884.0,341497.56
+Small Business,France,Carretera,Medium,448.0,3,300,9408.0,6,124992.0,239420.12
+Enterprise,Germany,Amarilla,High,3165.0,260,125,43518.75,1,352106.25,375532.13
+Government,United States of America,Paseo,Low,3450.0,10,350,48300.0,7,1159200.0,723659.94
+Government,Germany,Montana,Low,1958.0,5,7,411.18,2,13294.82,107220.7
+Channel Partners,Canada,VTT,Medium,3244.5,250,12,2725.38,1,36208.62,147729.07
+Government,United States of America,Montana,High,1298.0,5,7,1181.18,2,7904.82,-79704.78
+Government,United States of America,Velo,Low,1566.0,120,20,626.4,10,30693.6,85152.28
